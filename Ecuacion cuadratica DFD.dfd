@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+63
+'Inserte los tres numeros para resolver la ecuacion cuadratica'
+5
+1
+7
+A, B, C
+6
+2
+2
+X1
+26
+(-B+SQRT(B^2-4*A*C))/(2*A)
+2
+X2
+26
+(-B-SQRT(B^2-4*A*C))/(2*A)
+4
+1
+132
+'LA PRIMERA SOLUCION ES ', X1, ' Y LA SEGUNDA SOLUCION ES ', X2, ' Recuerde que la primera solucion es con suma y la otra con resta'
+1
