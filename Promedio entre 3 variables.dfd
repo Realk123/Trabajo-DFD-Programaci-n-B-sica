@@ -1,0 +1,19 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+65
+'Ingresa 3 valores a los cuales les quieras relaizar el promedio'
+5
+1
+19
+numb1, numb2, numb3
+4
+1
+109
+'El resultado de sus tres numero es ', ((numb1 + numb2 + numb3) / 3), ', Espero que le haya servido de ayuda'
+1
