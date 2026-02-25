@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+75
+'Para hallar el area de un rectangulo dilligencie las siguientes preguntas'
+4
+1
+34
+'Ingrese la altura del rectangulo'
+5
+1
+1
+h
+4
+1
+32
+'Ingrese la base del rectangulo'
+5
+1
+1
+b
+6
+1
+1
+a
+5
+(b*h)
+4
+1
+30
+'El area del rectangulo es ',a
+1
